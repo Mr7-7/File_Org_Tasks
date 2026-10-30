@@ -1,0 +1,3 @@
+Full Name: medo
+ID: 20
+Grade: 100
